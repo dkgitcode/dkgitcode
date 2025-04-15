@@ -1,7 +1,7 @@
 ## some highlights
 
 ### AI NBA Stats Engine
-code: [knowballs](https://knowballs.vercel.app)
+live @ [knowballs](https://knowballs.vercel.app)
 
 ### AI generated lessons with animation powered by manim
 live @: [manimsplain](https://manimsplain.vercel.app) <br>
