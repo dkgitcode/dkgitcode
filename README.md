@@ -1,9 +1,7 @@
 ## some highlights
 
-### NLP NBA Search Engine
-code: [ballharbor](https://github.com/dkgitcode/ballharbor) <br>
-
-https://github.com/user-attachments/assets/2c58674f-e778-4ba8-8be2-8d90fa8bc8ad
+### AI NBA Stats Engine
+code: [knowballs](https://knowballs.vercel.app)
 
 ### AI generated lessons with animation powered by manim
 live @: [manimsplain](https://manimsplain.vercel.app) <br>
